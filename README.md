@@ -2,8 +2,11 @@
 CIS 3370 – Intrusion Detection System Project
 
 Student: Michael Roller
+
 Project: LLM-Powered Suricata Alert Triage and Summarization
+
 Instructor: Parra
+
 Due Date: December 11
 
 📘 Mission Statement
