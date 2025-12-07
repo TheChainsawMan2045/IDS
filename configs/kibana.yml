@@ -5,9 +5,8 @@
 # Elasticsearch endpoint
 elasticsearch.hosts: ["http://localhost:9200"]
 
-# Security disabled (Kibana connecting without auth)
-# elasticsearch.username: "elastic"
-# elasticsearch.password: "yourpassword"
+# Disable security for local, single-user development
+xpack.security.enabled: false
 
 # Required for saved objects
 xpack.encryptedSavedObjects.encryptionKey: "this_is_a_long_random_encryption_key_12345"
