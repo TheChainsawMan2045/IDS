@@ -1,0 +1,6 @@
+Destination Port,Flow Duration,Total Fwd Packets,Total Backward Packets,Total Length of Fwd Packets,Total Length of Bwd Packets,Label
+80,12345,10,8,4500,3900,BENIGN
+443,67890,14,12,7200,6800,BENIGN
+53,15000,5,2,900,600,DoS Hulk
+21,23456,30,25,15000,14000,FTP-Patator
+80,31000,12,10,5200,4900,BENIGN
