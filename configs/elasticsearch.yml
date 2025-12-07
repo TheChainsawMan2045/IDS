@@ -1,0 +1,15 @@
+# ================================
+# Elasticsearch Configuration
+# ================================
+
+# Disable security for local development
+xpack.security.enabled: false
+xpack.security.enrollment.enabled: false
+xpack.security.http.ssl.enabled: false
+xpack.security.transport.ssl.enabled: false
+
+# Bind Elasticsearch to localhost
+http.host: 0.0.0.0
+
+# Cluster settings
+cluster.initial_master_nodes: ["WIN-I1CEEH0DH51"]
