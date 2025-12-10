@@ -17,7 +17,7 @@ This project aims to automate intrusion detection alert triage using Suricata al
 ## Story Point Summary
 
 | Issue | Description | Story Points | Status | Team member |
-|-------|-------------|--------------|---------|
+|-------|-------------|--------------|--------|--------------|
 | #1 | Set up ELK environment | 2 | Done | Michael |
 | #2 | Download CIC-IDS-2017 dataset | 2 | Done | Michael |
 | #3 | Write enrichment script | 4 | Done | Michael |
