@@ -16,14 +16,14 @@ This project aims to automate intrusion detection alert triage using Suricata al
 
 ## Story Point Summary
 
-| Issue | Description | Story Points | Status |
+| Issue | Description | Story Points | Status | Team member |
 |-------|-------------|--------------|---------|
-| #1 | Set up ELK environment | 2 | Done |
-| #2 | Download CIC-IDS-2017 dataset | 2 | Done |
-| #3 | Write enrichment script | 4 | Done |
-| #4 | Python script for loading dataset | 2 | Done |
-| #5 | Suricata dataset | 2 | Done |
-| #5 | Create Kibana dashboard | 2 | Done |
-| #6 | Presentation | 2 | In Progress |
-| #7 | Repository + Wiki documentation | 2 | Done |
+| #1 | Set up ELK environment | 2 | Done | Michael
+| #2 | Download CIC-IDS-2017 dataset | 2 | Done | Michael
+| #3 | Write enrichment script | 4 | Done | Michael
+| #4 | Python script for loading dataset | 2 | Done | Michael
+| #5 | Suricata dataset | 2 | Done | Michael
+| #5 | Create Kibana dashboard | 2 | Done | Michael
+| #6 | Presentation | 2 | In Progress | Elijah and Michael
+| #7 | Repository + Wiki documentation | 2 | Done | Michael
 | **Total** |  | **18** |  |
